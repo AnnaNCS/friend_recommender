@@ -1,4 +1,4 @@
-This is another project of mine in python: a friend recommender method for a social network 
+A project in python: a friend recommender method for a social network 
 
 To run the method:
 ```
